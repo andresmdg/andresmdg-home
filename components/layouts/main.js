@@ -23,7 +23,7 @@ const Main = ({ children, router }) => {
         <meta property="og:site_name" content="Andres Martinez" />
         <meta name="og:title" content="Andres Martinez" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://andresmdg.surge.sh/card.png" />
+        <meta property="og:image" content="https://andresmdg.vercel.app/card.png" />
         <title>Andres Martinez - Homepage</title>
       </Head>
 
